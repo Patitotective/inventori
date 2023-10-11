@@ -1,0 +1,14 @@
+{
+  "appId": "com.inventori.app",
+  "appName": "inventori",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
